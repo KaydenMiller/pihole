@@ -1,0 +1,10 @@
+0.0.0.0 unrulymedia.com
+0.0.0.0 adsrvr.org
+0.0.0.0 vidazoo.com
+0.0.0.0 doubleclick.net
+0.0.0.0 smartadserver.com
+0.0.0.0 resetsrv.com
+0.0.0.0 servenobid.com
+0.0.0.0 seedtag.com
+0.0.0.0 a-mo.net
+0.0.0.0 iesdev.com
